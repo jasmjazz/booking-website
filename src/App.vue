@@ -24,4 +24,5 @@ body {
 <style lang="scss">
 @import 'assets/scss/home-page.scss';
 @import 'assets/scss/register-page.scss';
+@import 'assets/scss/login-page.scss';
 </style>

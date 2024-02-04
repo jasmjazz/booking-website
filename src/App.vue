@@ -25,4 +25,5 @@ body {
 @import 'assets/scss/home-page.scss';
 @import 'assets/scss/register-page.scss';
 @import 'assets/scss/login-page.scss';
+@import 'assets/scss/room-page.scss';
 </style>

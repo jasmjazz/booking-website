@@ -118,7 +118,7 @@
         <slide v-for="slide in 10" :key="slide">
           <div class="slide-wrap">
             <div class="side-wrap-inner">
-              <img src="@/assets/img/food1.png" alt="" />
+              <img src="@/assets/img/food2.png" alt="" />
               <div class="text-wrap">
                 <div class="info">
                   <span class="title">海霸</span>
